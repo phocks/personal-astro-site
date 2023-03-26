@@ -1,6 +1,6 @@
 {
-	"name": "astro-cactus",
-	"version": "2.1.2",
+	"name": "@phocks/notes",
+	"version": "1.0.0",
 	"private": false,
 	"scripts": {
 		"dev": "astro dev",
